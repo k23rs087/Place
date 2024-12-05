@@ -1,0 +1,29 @@
+/**/
+    body {    
+        font-size: 62.5%; 
+        font-size: 0.5em;
+        margin : 0px;
+        background-color: #ffffff; 
+        color: #000000;
+    }
+    #map {
+        position : absolute;
+        top : 0px; 
+        left : 0px;
+    	width:320px;
+    	height:320px; 
+    }
+    #btnA {
+        font-size: 20px;
+        position:absolute; top:320px; left:10%; width:35%; height:60px; 
+    }
+    #btnB {
+        font-size: 20px;
+        position:absolute; top:320px; left:45%; width:25%; height:60px; 
+    }
+    #data {
+        font-size: 4em;
+        position:absolute; top:380px; left:20px; width:85%; height:60px; 
+        
+    }
+    
